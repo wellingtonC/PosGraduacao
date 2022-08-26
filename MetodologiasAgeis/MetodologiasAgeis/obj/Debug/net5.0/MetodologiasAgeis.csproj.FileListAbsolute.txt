@@ -1,0 +1,16 @@
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.exe
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.deps.json
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.runtimeconfig.json
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.runtimeconfig.dev.json
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.dll
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\ref\MetodologiasAgeis.dll
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\bin\Debug\net5.0\MetodologiasAgeis.pdb
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.csproj.AssemblyReference.cache
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.AssemblyInfoInputs.cache
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.AssemblyInfo.cs
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.csproj.CoreCompileInputs.cache
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.dll
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\ref\MetodologiasAgeis.dll
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.pdb
+C:\Users\wellf\Desktop\projetos\PosGraduacao\MetodologiasAgeis\MetodologiasAgeis\obj\Debug\net5.0\MetodologiasAgeis.genruntimeconfig.cache
