@@ -1,0 +1,16 @@
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.exe
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.deps.json
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.runtimeconfig.json
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.runtimeconfig.dev.json
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.dll
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\ref\DesenvolvimentoGuiadoTeste.dll
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\bin\Debug\net5.0\DesenvolvimentoGuiadoTeste.pdb
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.csproj.AssemblyReference.cache
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.AssemblyInfoInputs.cache
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.AssemblyInfo.cs
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.csproj.CoreCompileInputs.cache
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.dll
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\ref\DesenvolvimentoGuiadoTeste.dll
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.pdb
+C:\Users\wellf\Desktop\Faculdade\1° Semestre\Metodologias ageis\DesenvolvimentoGuiadoTeste\DesenvolvimentoGuiadoTeste\obj\Debug\net5.0\DesenvolvimentoGuiadoTeste.genruntimeconfig.cache

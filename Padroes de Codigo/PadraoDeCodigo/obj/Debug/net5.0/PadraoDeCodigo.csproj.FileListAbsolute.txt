@@ -1,0 +1,16 @@
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.exe
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.deps.json
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.runtimeconfig.json
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.runtimeconfig.dev.json
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.dll
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\ref\PadraoDeCodigo.dll
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\bin\Debug\net5.0\PadraoDeCodigo.pdb
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.csproj.AssemblyReference.cache
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.AssemblyInfoInputs.cache
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.AssemblyInfo.cs
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.dll
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\ref\PadraoDeCodigo.dll
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.pdb
+C:\Users\wellf\Desktop\projetos\Atividade2\PadraoDeCodigo\PadraoDeCodigo\obj\Debug\net5.0\PadraoDeCodigo.genruntimeconfig.cache
